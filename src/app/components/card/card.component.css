@@ -1,0 +1,14 @@
+* {
+    background-color: rgb(0, 0, 0);
+}
+.melody {
+    color: white;
+    text-shadow: 4px 2px #f25eb4;
+    
+}
+h1.anitta {
+    font-size: 72px;
+    background: -webkit-linear-gradient(#f79903, #fbf9ed);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
